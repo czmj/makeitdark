@@ -54,12 +54,14 @@ table {
     border-color: #4c4c4c;
 }
 .c-avatar,
-.p-file_image_thumbnail__wrapper {
+.p-file_image_thumbnail__wrapper,
+.c-aspect_box__content {
     background: #aa98cd;
 }
 
 .c-avatar__image,
-.p-file_image_thumbnail__image {
+.p-file_image_thumbnail__image,
+.c-message_attachment__image {
     mix-blend-mode: multiply;
 }
 ::placeholder {
