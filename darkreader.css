@@ -56,12 +56,12 @@ table {
 .c-avatar,
 .p-file_image_thumbnail__wrapper,
 .c-aspect_box__content {
-    background: #aa98cd;
+    background: #c4dbff;
 }
 
-.c-avatar__image,
-.p-file_image_thumbnail__image,
-.c-message_attachment__image {
+.c-avatar .c-avatar__image,
+.p-file_image_thumbnail__wrapper .p-file_image_thumbnail__image,
+.c-aspect_box__content .c-message_attachment__image, {
     mix-blend-mode: multiply;
 }
 ::placeholder {
