@@ -53,6 +53,9 @@ a {
 table {
     border-color: #4c4c4c;
 }
+img {
+    mix-blend-mode: multiply;
+}
 ::placeholder {
     color: #b9b4ac;
 }
