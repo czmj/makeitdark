@@ -61,7 +61,7 @@ table {
 
 .c-avatar .c-avatar__image,
 .p-file_image_thumbnail__wrapper .p-file_image_thumbnail__image,
-.c-aspect_box__content .c-message_attachment__image, {
+.c-aspect_box__content .c-message_attachment__image {
     mix-blend-mode: multiply;
 }
 ::placeholder {
