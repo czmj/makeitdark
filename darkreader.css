@@ -53,7 +53,13 @@ a {
 table {
     border-color: #4c4c4c;
 }
-img {
+.c-avatar,
+.p-file_image_thumbnail__wrapper {
+    background: #aa98cd;
+}
+
+.c-avatar__image,
+.p-file_image_thumbnail__image {
     mix-blend-mode: multiply;
 }
 ::placeholder {
