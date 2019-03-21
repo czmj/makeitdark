@@ -21929,6 +21929,7 @@ body.has_loading_trouble #trouble_loading_overlay {
     mix-blend-mode: multiply;
 }
 
-.emoji {
+.emoji,
+.emoji-outer {
     filter: contrast(90%) brightness(80%);
 }
